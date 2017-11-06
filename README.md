@@ -1,10 +1,10 @@
 html-css-assessment
 ===================
 
-##Objective
+## Objective
 Show understanding of core HTML/CSS Concepts
 
-##Directions
+## Directions
 Fork this repo, clone your fork, then make it look like this.
 
 ![Design](https://github.com/DevMountain/html-css-assessment/blob/master/img/html.gif?raw=true, "Design")
@@ -12,7 +12,7 @@ Fork this repo, clone your fork, then make it look like this.
 
 When you have completed the challenges please follow these instructions:
 
-* Open the termal to where this assessment is
+* Open the terminal to where this assessment is
 * Add and commit all of your completed code.
 * Type `git checkout -b gh-pages`
 * Type `git push -u origin gh-pages`
