@@ -10,4 +10,4 @@ Create a responsive HTML-CSS build using the provided background of `main-bg.jpe
 
 ## The completed product:
 
-![Final]()
+![Final](https://github.com/kale-stew/html-css-assessment/blob/gh-pages/img/out.gif)
